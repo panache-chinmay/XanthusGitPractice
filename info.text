@@ -21,3 +21,17 @@ git diff ---> difference between working and staging
 git add .
 git commit -m "added"
 git push 
+git log
+git Show HEAD
+
+
+// scnario 1
+
+
+
+// scenario 2
+
+
+// scenario 3
+
+
