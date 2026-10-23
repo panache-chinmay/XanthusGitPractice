@@ -24,14 +24,11 @@ git push
 git log
 git Show HEAD
 
-
-// scnario 1
-
-
-
+// scenario 1
+to make working direcoty similar to last commit --- git checkout HEAD file
 // scenario 2
-
-
+git reset HEAD filename
+to make staging similar to last commit   ------ git reset HEAD  filename
 // scenario 3
 
 
