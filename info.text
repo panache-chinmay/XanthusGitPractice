@@ -1,0 +1,23 @@
+echo "# XanthusGitPractice" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/panache-chinmay/XanthusGitPractice.git
+git push -u origin main
+
+
+git config --global user.name "Your Name" //"panche-chinmay"
+git config --global user.email "your.email@example.com"// chinmaydeshpande010@gmail.com
+
+wd    --------staging ------- local repo              remote repo 
+ 
+script2.js    git add .      git commit -m "third"      git push origin
+
+
+git init
+git status
+git diff ---> difference between working and staging
+git add .
+git commit -m "added"
+git push 
